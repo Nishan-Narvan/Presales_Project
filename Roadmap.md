@@ -16,6 +16,276 @@
 
 ---
 
+FRAME
+Name: Nishan | 2026 B.Tech ECE | Delhi NCR | BD intern at VAYUZ (Noida)
+Edge: built AI MVP + evaluated LLMs (quality/latency/cost), outbound sales, HubSpot + Apollo certs
+Goal: signed Associate Presales / Solutions Consultant / SE offer by 14 Feb 2027
+Pay: min Rs 40k/month fixed | Location: Gurugram/Delhi/Noida, Bengaluru backup
+Time: 15 hrs/week alongside VAYUZ
+Vertical: AI-enabled B2B SaaS (one only)
+Rules: one task at a time | no new certs/courses | don't resign before signed offer
+Daily: 3 outreach touches at lunch | Sunday: 45 min review (numbers, feedback, next 3 tasks)
+
+
+WEEK 1 (16-22 Nov) - SETUP
+
+- Pick vertical
+  -> Lock "AI-enabled B2B SaaS" (matches Dmak AI work + VAYUZ software pitching).
+  -> Write one line: "I solve [problem] for [buyer] in AI SaaS." Pin it in your notes.
+
+- List 40 target companies
+  -> Ring 1 (NCR, 20): Credgenics, LeadSquared, Konverz.ai, SynergyLabs, Xebo.ai, Info Edge, Media.Monks, Sprinklr, DevRev, MongoDB + 10 more from LinkedIn "presales Gurugram/Noida".
+  -> Ring 2 (Bengaluru, 12): Freshworks, Darwinbox, Saviynt, Glean, Cisco Associate SE + 7 more.
+  -> Ring 3 (8): HubSpot/Salesforce/Zoho partner firms in NCR.
+
+- Create tracker sheet
+  -> Google Sheet columns: Company | Contact | Title | Tier (Manager/IC/Recruiter) | Channel | Touch 1 date | Touch 2 date | Reply | Stage | Next step | Feedback.
+  -> Add a second tab "Weekly numbers": touches, replies, calls, referrals, interviews.
+
+- Join PreSales Collective Slack
+  -> Sign up free at presalescollective.com, join #jobs, #india, #delhi channels.
+  -> Introduce yourself in 3 lines: background, vertical, "building a presales portfolio, open to feedback".
+
+- Update LinkedIn headline
+  -> Headline: "Engineer who's built AI MVPs and sold to listed enterprises | Discovery, POC, ROI".
+  -> Pin a post: "Building a presales portfolio in public. Week 1."
+
+- Rewrite outreach
+  -> New ask: "Could you give 10 mins of feedback on my demo flow?" Never "any openings?".
+  -> Split your 50 contacts: 15 managers, 25 presales ICs, 10 recruiters. Mark tier in tracker.
+
+
+WEEK 2 (23-29 Nov) - DISCOVERY
+
+- Learn discovery: SPIN, MEDDPICC, business vs technical
+  -> SPIN: Situation, Problem, Implication, Need-payoff. Write 3 questions per type for one AI SaaS buyer.
+  -> MEDDPICC SE parts: Metrics, Decision Criteria, Decision Process, Implicate Pain, Champion, Competition. One example question for each.
+  -> Business discovery = goals, KPIs, pain, success measure. Technical = stack, integrations, security, evaluation criteria.
+
+- Build 40-question discovery bank
+  -> Two columns: 20 business + 20 technical. Tag each with a MEDDPICC letter.
+  -> Order them: current state -> future state -> decision process.
+
+- Test 5 questions on VAYUZ calls
+  -> Pick 5 from the bank, use them on real prospect calls this week.
+  -> After each call, note which question got the best answer. Keep it, drop the weakest.
+
+- Book Google Cloud Digital Leader exam
+  -> Book for ~22-27 Dec. $99, 90 min, online.
+  -> Start the free Google Cloud Skills Boost prep path, 30 min on 3 days.
+
+- Send 15 outreach messages
+  -> Start with Tier B (presales ICs): "How did you break into presales? Who hires juniors on your team?"
+  -> Log every touch in tracker same day.
+
+
+WEEK 3 (30 Nov-6 Dec) - DEMO + VALUE
+
+- Learn demo craft
+  -> Do the Last Thing First: open with the end result (dashboard/report), then show how.
+  -> Tell-Show-Tell: explain context screen-off -> show one workflow (~5 min) -> screen-off, summarise value.
+  -> Frame every click: say why before you click. Watch 3 SE demo videos on YouTube and note what they do.
+
+- Learn ROI math, POC criteria, mutual action plan
+  -> ROI: hours saved x hourly cost (Rs) + tools replaced + risk reduced. Do one example by hand.
+  -> POC: 3-5 success criteria, each Must-Have or Nice-to-have, each with a buyer owner.
+  -> Mutual action plan: download Atlassian's free MAP template, fill a fake one.
+
+- Pick the product to demo
+  -> Choose a Ring 1 company's AI/SaaS product with a free trial. Backup: your own Dmak-style compliance AI.
+  -> Sign up for the trial, spend 2 hrs exploring, list its 3 strongest workflows.
+
+- Send 15 outreach messages
+  -> Mix Tier A managers + Tier B ICs. Mention something specific about their product.
+  -> Follow up week 2 contacts (day 3 nudge).
+
+
+WEEK 4 (7-13 Dec) - TECH SHEETS 1 + ARTIFACT 1
+
+- Tech sheet: APIs/webhooks
+  -> One page: what a REST API is, GET/POST/PUT/DELETE, JSON, API keys, status codes (200/401/404/429), rate limits.
+  -> Webhooks = push, polling = pull. Call one public API in Postman and screenshot it.
+  -> End with a 90-sec "explain to a CIO" paragraph.
+
+- Tech sheet: SSO (SAML/OAuth)
+  -> SAML: IdP (Okta) vouches for the user to the app (SP). Used for enterprise login.
+  -> OAuth/OIDC: app gets permission/token to act for the user. SCIM: auto-creates/removes users.
+  -> Draw one simple flow diagram for each. Use Okta/Auth0 docs.
+
+- Build artifact 1: discovery brief (1 page)
+  -> Invent a realistic buyer: e.g. "Head of Ops, 500-person NBFC" or "Head of Regulatory, mid-size pharma".
+  -> Sections: current state, 3 pains, metrics, decision process, stakeholders, success criteria.
+  -> Export as PDF. This brief drives your demo and ROI sheet.
+
+- Send 15 outreach messages
+  -> Attach nothing yet. Ask Tier B contacts what they'd want to see in a junior's demo.
+  -> Note every answer in tracker Feedback column.
+
+
+WEEK 5 (14-20 Dec) - TECH SHEETS 2 + DEMO SCRIPT
+
+- Tech sheet: SOC 2 / ISO 27001
+  -> SOC 2 Type I = controls exist at a point in time; Type II = controls worked over 6-12 months.
+  -> ISO 27001 = global security management standard. List 5 common security questionnaire questions.
+
+- Tech sheet: India DPDP
+  -> Rules notified Nov 2025, phased rollout 12-18 months, penalties up to Rs 250 crore.
+  -> Note what a SaaS vendor must do: consent, breach notification, data handling.
+
+- Tech sheet: LLM/RAG/agents/evals (your edge)
+  -> Tokens, context window, RAG (retrieve docs -> feed LLM), agents (LLM + tools), evals, hallucination.
+  -> Add your Dmak story: compared models on quality, latency, cost.
+
+- Tech sheet: cloud + SQL
+  -> Cloud: regions, IaaS/PaaS/SaaS, shared responsibility, IAM (comes from cert prep).
+  -> SQL: SELECT, JOIN, GROUP BY. Do 5 SQLBolt lessons.
+
+- Record SAML vs OAuth and RAG in 90 sec
+  -> Phone recording, no notes. Rewatch, cut filler, re-record once.
+
+- Start artifact 2: demo script
+  -> Script arc: recap discovery (30s) -> "before" pain (1-2 min) -> solve 3 pains -> Rs impact (2-3 min) -> next step.
+  -> Map each pain from your discovery brief to one workflow in the product.
+
+- Send 15 outreach messages
+
+
+WEEK 6 (21-27 Dec) - RECORD DEMO + CERT
+
+- Record 15-min demo
+  -> Loom or OBS. Screen + face cam. Follow script, every click framed.
+  -> Max 15 min. Re-record once if over time.
+
+- Build interactive version
+  -> Storylane free plan (1 demo) or Navattic free Starter. 8-12 steps with captions.
+  -> Also cut a 60-90 sec teaser clip for outreach.
+
+- Take cert exam
+  -> Revise 2 evenings before. Take the exam, add the badge to LinkedIn.
+
+- Send 15 outreach messages
+  -> Now include the 90-sec teaser link. Ask for feedback on the demo flow.
+
+
+WEEK 7 (28 Dec-3 Jan) - ROI + FEEDBACK
+
+- Build artifact 3: ROI calculator
+  -> Google Sheet: inputs (team size, hours/task, salary, error cost) -> outputs (hours saved, Rs saved/year, payback months).
+  -> Add M1 (proven results from case studies) and M2 (projected for this buyer). One-page value summary below it.
+
+- Show demo to 2 presales people
+  -> Send to your best 2 replies from outreach. Ask: "What would you cut? What's missing?"
+  -> Write their feedback in the tracker word for word.
+
+- Start 20-min mock demo template
+  -> Slide shell: agenda, discovery recap, end result, 3 workflows, Rs impact, next step.
+  -> Reusable for any company in 48 hours.
+
+- Send 15 outreach messages
+
+
+WEEK 8 (4-10 Jan) - ARTIFACT 4 + PUBLISH
+
+- Build artifact 4: architecture + proposal + SOW + security answers
+  -> Diagram (draw.io/Excalidraw): product <-> CRM <-> ERP <-> SSO, data flow arrows, failure points, encryption.
+  -> 2-page proposal: problem, solution, value, timeline, pricing assumptions.
+  -> 1-page SOW: scope, out of scope, assumptions, timeline, acceptance criteria.
+  -> 30 security questionnaire answers incl. DPDP.
+
+- Ship demo v2
+  -> Apply the 2 people's feedback. Re-record. Note what changed (this becomes an interview story).
+
+- Publish all artifacts on nishan.website
+  -> One "Presales Portfolio" page: brief, demo video + interactive link, ROI sheet, architecture pack.
+  -> Add the link to LinkedIn Featured + resume.
+
+- LLM evaluation write-up
+  -> 1-2 pages: models compared, criteria, results, decision. Remove anything confidential.
+
+- 2 mock interviews
+  -> Record a demo mock and a discovery role-play with a friend. Review against the 20-min template.
+
+
+WEEK 9 (11-17 Jan) - STORIES + EVENTS
+
+- Write 8-10 STAR stories
+  -> Situation, Task, Action, Result. Under 3 min each.
+  -> Cover: technical under ambiguity (Dmak MVP), data tradeoff (LLM eval), tough objection (VAYUZ), lost deal, disagreement, "I don't know", took feedback (demo v2), why presales.
+
+- 2 mock interviews (demo + discovery)
+  -> Ask 5 discovery questions before showing anything. Finish 2-3 min early.
+
+- Attend NCR presales meetup
+  -> Check Luma for Presales India Delhi NCR Connect and PreSales Collective Delhi.
+  -> 20-sec intro, QR to portfolio, 3 conversations, follow up within 24 hrs.
+
+- Send 20 outreach messages with portfolio link
+  -> Tier A managers: "Built a demo + ROI pack for [their product]. 10 mins of feedback?"
+
+
+WEEK 10 (18-24 Jan) - APPLY + REFERRALS
+
+- 2 mock interviews (whiteboard + demo)
+  -> Whiteboard prompt: "Integrate our product with their CRM and SSO." Explain data flow and failure points.
+
+- Write 30-60-90 day plan
+  -> 30: learn product, shadow 10 calls, own demo environment.
+  -> 60: run SMB demos, own RFP/security sections. 90: run a POC, share an LLM-eval primer with the team.
+
+- Follow up warm contacts, ask for referrals
+  -> Everyone who replied: "Is there an associate presales or implementation role I could be referred to?"
+
+- Apply to all open roles
+  -> Associate presales, solutions consultant, implementation/onboarding at all 40 companies. Referral first, portal second.
+
+
+WEEK 11 (25-31 Jan) - INTERVIEWS
+
+- 2 mock interviews (discovery + full panel)
+  -> Panel: recruiter + manager + technical questions in one 60-min session.
+
+- 48-hr demo template ready
+  -> Duplicate slide shell, discovery recap page, ROI sheet copy. Test: can you prep a new company in 48 hrs?
+
+- Run interviews
+  -> Before each: research their product 2 hrs, prepare 5 discovery questions, tailor 3 STAR stories.
+
+- Send 20 outreach messages
+
+
+WEEK 12 (1-7 Feb) - DEMO ROUNDS
+
+- Run interviews and demo rounds
+  -> Use the 20-min template: discovery check, opening tell, end result first, 2-3 workflows, Rs impact, objections, next step.
+  -> Keep a backup recording in case the live demo breaks.
+
+- Ask feedback after every round
+  -> End each round: "What's one thing I could do better?"
+  -> Next round, say it out loud: "Last time you suggested X, so I changed it."
+
+- Keep 15 touches/week going
+  -> Don't stop outreach while interviewing. Pipeline dies if you pause.
+
+
+WEEK 13 (8-14 Feb) - CLOSE
+
+- Close offers
+  -> Follow up every final round within 24 hrs with a thank-you + one extra insight.
+
+- Confirm before signing
+  -> Fixed pay >= Rs 40k/month in hand? Variable % and what it's tied to?
+  -> Real working hours? Actual demo/solution work, not telecalling? Who coaches you?
+
+- Sign offer, then resign from VAYUZ
+  -> Only after the offer letter is signed and received.
+
+
+END
+Done = signed offer >= Rs 40k/month fixed
+If no interviews by week 9: add implementation/onboarding roles at the same companies
+If interviews but no offers: double the mock demos
+----
+
 ## 📌 TL;DR
 
 > Presales managers don't hire freshers for degrees or certificates. They hire the person who **asks before telling**, **links features to business numbers**, **takes coaching between rounds**, and is **genuinely curious about their product**.
